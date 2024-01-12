@@ -9,7 +9,6 @@ The graphs and visualizations provided in this analysis are not only insightful 
 
 ## Technologies Used
 - **Python**: The main programming language used for data analysis and visualization.
-- **Jupyter Notebook**: An interactive computational environment that facilitates live code execution, visualizations, and explanatory text.
 - **Pandas**: A Python library used for data manipulation and analysis.
 - **Matplotlib/Seaborn**: Python libraries used for data visualization.
 
