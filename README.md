@@ -1,11 +1,8 @@
 # Euro-Dollar Exchange Rate Analysis
 
 ## Overview
-This project presents an in-depth analysis of the Euro-Dollar exchange rate dynamics. The core of this project is encapsulated in the Jupyter Notebook 'Euro_dollar graph 1.ipynb', which provides a detailed exploration and visualization of Euro-Dollar exchange rate trends over a specified time period.
-
-## Objective
-The primary aim is to provide a comprehensive understanding of the fluctuations in the Euro-Dollar exchange rate. This analysis can be particularly beneficial for financial analysts, currency traders, and economists who require a detailed understanding of currency market trends.
-The graphs and visualizations provided in this analysis are not only insightful but are also well-suited for use in report presentations, providing a clear and impactful means of communicating complex financial data.
+This project presents an visualisation of the Euro-Dollar exchange rate dynamics over a specified time period.
+This graph presents the Euro-USD exchange rates during the presidential terms of Clinton, Obama, and Trump, illustrating the Euro's trajectory against the USD over two decades. Color-coded for clarity, it serves as an excellent tool for presentations and reports, offering a succinct visual summary of complex economic data sourced from the European Central Bank.
 
 ## Technologies Used
 - **Python**: The main programming language used for data analysis and visualization.
